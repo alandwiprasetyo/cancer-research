@@ -2,10 +2,6 @@
 
 **Konteks kasus:** Metastasis tunggal di **ganglia basalis kiri**, berasal dari **kanker payudara HER2-positif**, dengan gejala diduga akibat efek massa (gangguan bicara). Tujuan daftar ini: bahan referensi dan diskusi dengan tim bedah saraf, bukan pengganti penilaian medis.
 
-**Keterangan label:**
-- 🟢 **Gratis (open access)** — PDF bisa langsung diunduh.
-- 🔒 **Berbayar/abstrak** — hanya ringkasan yang bisa dibaca gratis; teks penuh mungkin perlu akses institusi.
-
 ---
 
 ## A. Paling relevan — metastasis di lokasi dalam / ganglia basalis
